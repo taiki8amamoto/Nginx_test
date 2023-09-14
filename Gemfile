@@ -27,6 +27,9 @@ gem 'jbuilder', '~> 2.7'
 gem 'net-smtp'
 gem 'net-imap'
 gem 'net-pop'
+gem 'unicorn'
+gem 'unicorn-rails'
+
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
